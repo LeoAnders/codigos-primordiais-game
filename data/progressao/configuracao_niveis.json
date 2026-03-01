@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "planets": ["arithma", "geometra", "probabilis", "algebrax", "cosmara"],
+  "default_unlock_order": ["arithma", "geometra", "probabilis", "algebrax", "cosmara"]
+}
+

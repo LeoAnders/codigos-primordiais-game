@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "id": "intro_eco_001",
+  "context": {
+    "location": "calculon",
+    "speaker": "eco"
+  },
+  "lines": [
+    {
+      "speaker": "Eco",
+      "text": "A violência é o último refúgio do incompetente."
+    },
+    {
+      "speaker": "Eco",
+      "text": "Você não vai salvar mundos com armas. Vai salvar com compreensão."
+    }
+  ]
+}
+

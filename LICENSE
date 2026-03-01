@@ -1,0 +1,43 @@
+Academic Collaborative License (Private)
+
+Copyright (c) 2026 Leonardo Anders
+
+Purpose
+-------
+This project is a private academic/university collaboration ("Códigos Primordiais").
+This license is intended to allow classmates/collaborators to contribute while
+keeping the project private.
+
+Permissions (for approved collaborators)
+---------------------------------------
+If you are an approved collaborator of this repository for academic purposes,
+you may:
+
+- View, clone, and run the project for academic evaluation.
+- Modify the project and commit/push changes to this repository.
+- Share the project and its modifications ONLY with other approved collaborators
+  of this same academic project.
+
+Restrictions
+------------
+You may NOT:
+
+- Publish the repository or its contents publicly (including public forks).
+- Redistribute the project outside the approved collaborator group.
+- Use this project (code, assets, story, designs) in other projects.
+- Use this project for commercial purposes.
+
+Third-party content
+-------------------
+Some assets may be subject to third-party licenses. When adding third-party
+content, include the license text under the `licences/` directory and follow
+its terms.
+
+No warranty
+-----------
+The project is provided "as is", without warranty of any kind.
+
+Contact
+-------
+For permissions beyond this license (e.g., public release, portfolio use),
+contact the repository owner/maintainer.
